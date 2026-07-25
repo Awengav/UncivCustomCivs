@@ -259,5 +259,769 @@
     "hateHello": "My impi await only my word.",
     "tradeRequest": "Cattle for cattle, or something of equal worth - shall we agree?",
     "spyNames": ["Dingane", "Mpande", "Cetshwayo", "Dinuzulu", "Mzilikazi", "Nandi"]
+  },
+  {
+    "name": "Abbasids",
+    "leaderName": "Harun al-Rashid",
+    "adjective": "Abbasid",
+    "style": "",
+    "outerColor": [20, 20, 20],
+    "innerColor": [230, 200, 90],
+    "startBias": ["Desert"],
+    "uniqueName": "House of Wisdom",
+    "uniques": [
+      "[+3] Science from every [Library]",
+      "[+2] Gold from every [Market]",
+      "[+1] Culture from every [Wonder]"
+    ],
+    "cities": ["Baghdad", "Samarra", "Kufa", "Basra", "Raqqa", "Mosul", "Anbar", "Wasit"],
+    "startIntroPart1": "Harun al-Rashid, Commander of the Faithful, ruler of the Abbasid Caliphate! From your round city of Baghdad, scholars, poets, and mathematicians gathered from every corner of the known world.",
+    "startIntroPart2": "The House of Wisdom translated the learning of Greece, Persia, and India into a golden age unmatched in its time. Rebuild Baghdad and let knowledge once again flow down the Tigris!",
+    "declaringWar": "The armies of the Caliphate do not ask twice for submission.",
+    "attacked": "You raise your hand against the Commander of the Faithful. Reflect on that choice.",
+    "defeated": "Baghdad's library may burn, but its knowledge has already spread beyond your reach.",
+    "introduction": "I am Harun al-Rashid, Caliph of Baghdad. Peace be upon you - speak your purpose.",
+    "neutralHello": "The caravans of Baghdad welcome many travelers. What brings you?",
+    "hateHello": "My viziers grow impatient. State your business swiftly.",
+    "tradeRequest": "Silk, spice, or knowledge - Baghdad trades fairly with all.",
+    "spyNames": ["Ja'far", "Al-Ma'mun", "Al-Mansur", "Zubaidah", "Al-Muktafi", "Ibn Sina"]
+  },
+  {
+    "name": "Mali",
+    "leaderName": "Mansa Musa",
+    "adjective": "Malian",
+    "style": "",
+    "outerColor": [180, 140, 20],
+    "innerColor": [30, 30, 30],
+    "startBias": ["Desert"],
+    "uniqueName": "Lord of the Mines",
+    "uniques": [
+      "[+3] Gold from every [Trading Post]",
+      "[+20]% Gold from Cities connected to Capital",
+      "[+2] Faith from every [Wonder]"
+    ],
+    "cities": ["Niani", "Timbuktu", "Gao", "Djenne", "Walata", "Taghaza", "Diakha", "Kangaba"],
+    "startIntroPart1": "Mansa Musa, ruler of Mali, richest man the world had ever known! Your pilgrimage to Mecca scattered so much gold across Cairo that its value collapsed for a decade.",
+    "startIntroPart2": "Timbuktu became a beacon of scholarship and trade, its salt and gold caravans crossing the whole of the Sahara. Fill the treasury once more and let the world marvel at Mali's wealth!",
+    "declaringWar": "Gold has already bought the loyalty of armies at your gates.",
+    "attacked": "You would rob the richest treasury in the world? Bold, and foolish.",
+    "defeated": "Our gold outlasts us - it will simply fund whoever rises next.",
+    "introduction": "I am Mansa Musa, Lord of Mali. Let us speak of trade, as befits wealthy men.",
+    "neutralHello": "The salt caravans bring travelers of every kind. What do you seek?",
+    "hateHello": "Even my patience has a price, and you are close to exhausting it.",
+    "tradeRequest": "Gold for salt, salt for gold - Mali profits from either.",
+    "spyNames": ["Sundiata", "Abu Bakr", "Sakura", "Maghan", "Mari Djata", "Askia"]
+  },
+  {
+    "name": "Khmer",
+    "leaderName": "Jayavarman VII",
+    "adjective": "Khmer",
+    "style": "",
+    "outerColor": [150, 40, 30],
+    "innerColor": [230, 210, 150],
+    "startBias": ["Jungle"],
+    "uniqueName": "Masters of the Baray",
+    "uniques": [
+      "[+1] Food from every [Farm]",
+      "[+1] Production from every [Water Mill]",
+      "[+25]% Production towards [Wonder] construction"
+    ],
+    "cities": ["Angkor", "Hariharalaya", "Koh Ker", "Sambor Prei Kuk", "Isanapura", "Vyadhapura", "Wat Phu"],
+    "startIntroPart1": "Jayavarman VII, King of Kings, builder of Angkor Thom! Your engineers tamed the monsoon itself, building vast reservoirs, or barays, that let your rice fields feed a mighty empire.",
+    "startIntroPart2": "Temple-mountains rose from the jungle to touch the heavens under your rule. Restore the waters of the baray and let Angkor's towers rise once more!",
+    "declaringWar": "The waters of the baray now serve only our armies, not yours.",
+    "attacked": "The jungle has swallowed greater threats than you.",
+    "defeated": "The stones of Angkor will outlast every conqueror who claims them.",
+    "introduction": "I am Jayavarman VII, King of the Khmer. Speak, and be welcome beneath the towers.",
+    "neutralHello": "The temple bells have announced your arrival. What is your purpose?",
+    "hateHello": "The monsoon season is short, and so is my patience.",
+    "tradeRequest": "Rice and stone, silk and spice - shall we find fair terms?",
+    "spyNames": ["Suryavarman", "Yasovarman", "Indravarman", "Rajendravarman", "Udayadityavarman"]
+  },
+  {
+    "name": "Kongo",
+    "leaderName": "Afonso I",
+    "adjective": "Kongolese",
+    "style": "",
+    "outerColor": [40, 30, 20],
+    "innerColor": [220, 180, 60],
+    "startBias": ["Jungle"],
+    "uniqueName": "Cosmogram of the Ancestors",
+    "uniques": [
+      "[+2] Faith from every [Temple]",
+      "[+1] Production from every [Plantation]",
+      "[+15]% Gold from Luxury resources"
+    ],
+    "cities": ["Mbanza Kongo", "Mbanza Soyo", "Mbanza Nsundi", "Mbanza Mpangu", "Mbanza Mbata", "Mpinda"],
+    "startIntroPart1": "Afonso I, Manikongo, ruler of the Kingdom of Kongo! Your capital at Mbanza Kongo grew into a great city of stone churches and bustling markets along the Congo River basin.",
+    "startIntroPart2": "Your kingdom balanced ancient tradition with new ideas from distant shores, forging a realm respected across the Atlantic. Restore the balance of the cosmogram and let Kongo flourish once more!",
+    "declaringWar": "The ancestors have already judged you, and found you wanting.",
+    "attacked": "Our copper and iron do not only make ornaments - they make spearheads too.",
+    "defeated": "Mbanza Kongo falls, but the river remembers every kingdom upon it.",
+    "introduction": "I am Afonso, Manikongo of the Kongo. Speak, and speak honestly.",
+    "neutralHello": "The markets of Mbanza Kongo are open to honest traders. What do you seek?",
+    "hateHello": "The ancestors watch how you conduct yourself here.",
+    "tradeRequest": "Copper, ivory, cloth - name a fair exchange.",
+    "spyNames": ["Nzinga a Nkuwu", "Diogo I", "Garcia II", "Pedro I", "Nzinga Mbande"]
+  },
+  {
+    "name": "Timurids",
+    "leaderName": "Timur",
+    "adjective": "Timurid",
+    "style": "",
+    "outerColor": [30, 60, 130],
+    "innerColor": [220, 190, 100],
+    "startBias": ["Desert"],
+    "uniqueName": "Scourge of the Steppe",
+    "uniques": [
+      "[+30]% Strength for [Siege] units",
+      "[+1] Movement for [Siege] units",
+      "[+20]% Production when constructing [Wonder]s"
+    ],
+    "cities": ["Samarkand", "Herat", "Bukhara", "Shahrisabz", "Balkh", "Merv", "Termez"],
+    "startIntroPart1": "Timur, conqueror of Samarkand, terror of Delhi and Damascus! Your armies swept from the steppe to the Mediterranean, leaving both ruin and magnificent monuments in their wake.",
+    "startIntroPart2": "Samarkand became a jewel of Islamic architecture, its domes gleaming with the plunder and patronage of a world-spanning conquest. Rebuild the empire and let Samarkand's turquoise domes rise again!",
+    "declaringWar": "The steppe remembers no mercy, and neither do I.",
+    "attacked": "You have summoned a storm that has broken empires far greater than yours.",
+    "defeated": "Samarkand's domes will stand long after this defeat is forgotten.",
+    "introduction": "I am Timur, Lord of the Timurid realm. Kneel, or state your business quickly.",
+    "neutralHello": "My armies rarely pause for idle talk. What do you want?",
+    "hateHello": "You test the patience of a man who has broken sultanates.",
+    "tradeRequest": "Even conquerors need silk and horses. Let us trade.",
+    "spyNames": ["Shah Rukh", "Ulugh Beg", "Babur", "Miran Shah", "Sultan Husayn"]
+  },
+  {
+    "name": "Seljuks",
+    "leaderName": "Alp Arslan",
+    "adjective": "Seljuk",
+    "style": "",
+    "outerColor": [10, 90, 50],
+    "innerColor": [240, 240, 220],
+    "startBias": ["Plains"],
+    "uniqueName": "Ghazi Horsemen",
+    "uniques": [
+      "[+1] Movement for [Mounted] units",
+      "[+25]% Strength for [Mounted] units when attacking",
+      "[+2] Gold from Barbarian encampments"
+    ],
+    "cities": ["Isfahan", "Nishapur", "Rey", "Konya", "Hamadan", "Kayseri", "Sivas", "Erzurum"],
+    "startIntroPart1": "Alp Arslan, the Heroic Lion, Sultan of the Seljuks! Your victory at Manzikert shattered the armies of Byzantium and opened Anatolia to Turkic settlement forever.",
+    "startIntroPart2": "From the steppes of Central Asia, your horsemen carved a realm stretching from the Aral Sea to the Mediterranean coast. Ride again and let the Seljuk banner fly from Isfahan to Anatolia!",
+    "declaringWar": "Our horsemen have already broken greater armies than yours at Manzikert.",
+    "attacked": "You challenge the Heroic Lion. Few who tried lived to regret it slowly.",
+    "defeated": "Even a lion tires eventually - but the herd remembers his roar.",
+    "introduction": "I am Alp Arslan, Sultan of the Seljuks. Speak plainly, rider to rider.",
+    "neutralHello": "The steppe wind carries word of visitors. What is your purpose?",
+    "hateHello": "My ghazis are eager for battle. Do not keep them waiting.",
+    "tradeRequest": "Horses and steel for silk and grain - a fair trade between realms.",
+    "spyNames": ["Tughril", "Malik-Shah", "Kilij Arslan", "Sanjar", "Suleiman"]
+  },
+  {
+    "name": "Aksum",
+    "leaderName": "Ezana",
+    "adjective": "Aksumite",
+    "style": "",
+    "outerColor": [150, 20, 20],
+    "innerColor": [240, 230, 200],
+    "startBias": ["Coast"],
+    "uniqueName": "Stelae of the Red Sea",
+    "uniques": [
+      "[+2] Gold from every [Harbor]",
+      "[+15]% Gold from trade routes to a different Civilization",
+      "[+1] Faith from every [Wonder]"
+    ],
+    "cities": ["Aksum", "Adulis", "Matara", "Yeha", "Qohaito", "Coloe", "Meroe"],
+    "startIntroPart1": "King Ezana, ruler of Aksum, master of the Red Sea trade! Your merchant fleets linked the highlands of Africa with Rome, Persia, and India, and your kingdom minted its own gold coinage.",
+    "startIntroPart2": "Towering stelae still mark the graves of your ancestors, monuments no other African kingdom of your age could match. Restore the fleets of the Red Sea and let Aksum's stone towers rise anew!",
+    "declaringWar": "Our fleets already command the waters you depend upon.",
+    "attacked": "You choose war against the masters of the Red Sea trade. A costly choice.",
+    "defeated": "The stelae will stand watch long after this defeat fades from memory.",
+    "introduction": "I am Ezana, King of Aksum. Welcome - let us speak as traders, not enemies.",
+    "neutralHello": "The Red Sea winds bring many travelers. State your business.",
+    "hateHello": "My patience runs as dry as the highland dry season.",
+    "tradeRequest": "Ivory, gold, and salt - Aksum trades fairly with distant lands.",
+    "spyNames": ["Kaleb", "Gabra Masqal", "Wazeba", "Ousanas", "Armah"]
+  },
+  {
+    "name": "Tibet",
+    "leaderName": "Songtsen Gampo",
+    "adjective": "Tibetan",
+    "style": "",
+    "outerColor": [200, 30, 30],
+    "innerColor": [250, 220, 60],
+    "startBias": ["Mountain"],
+    "uniqueName": "Roof of the World",
+    "uniques": [
+      "[+3] Faith from every [Temple]",
+      "[+1] Happiness from every [Monastery]",
+      "[+15]% Strength for units fighting in [Mountain]"
+    ],
+    "cities": ["Lhasa", "Shigatse", "Gyantse", "Tsetang", "Nagqu", "Chamdo", "Nyingchi"],
+    "startIntroPart1": "Songtsen Gampo, unifier of Tibet, founder of the empire of the high plateau! From the roof of the world, your armies once reached into China, Nepal, and Central Asia.",
+    "startIntroPart2": "Buddhism took deep root in your kingdom, and Lhasa grew into a sacred city among the clouds. Unite the plateau once more and let Tibet's spiritual light shine across Asia!",
+    "declaringWar": "The mountains have already chosen their side, and it is not yours.",
+    "attacked": "Few armies survive the thin air and thinner patience of the highlands.",
+    "defeated": "Lhasa's monasteries close their gates, but the plateau endures forever.",
+    "introduction": "I am Songtsen Gampo, King of Tibet. Welcome to the roof of the world.",
+    "neutralHello": "The mountain winds carry word of travelers. What is your purpose?",
+    "hateHello": "The passes can close as quickly as they opened for you.",
+    "tradeRequest": "Salt, wool, and tea - fair trade for a fair traveler.",
+    "spyNames": ["Trisong Detsen", "Ralpacan", "Mune Tsenpo", "Muni Tsenpo", "Tride Songtsen"]
+  },
+  {
+    "name": "Dai Viet",
+    "leaderName": "Ly Thai To",
+    "adjective": "Vietnamese",
+    "style": "",
+    "outerColor": [200, 30, 40],
+    "innerColor": [240, 210, 40],
+    "startBias": ["River"],
+    "uniqueName": "Bronze Drums of the Delta",
+    "uniques": [
+      "[+1] Culture from every [Farm]",
+      "[+20]% growth [in all cities]",
+      "[+15]% Strength for units fighting in [Forest]"
+    ],
+    "cities": ["Thang Long", "Hoa Lu", "Co Loa", "Hue", "Phu Xuan", "Nghe An", "Thanh Hoa"],
+    "startIntroPart1": "Ly Thai To, founder of the Ly dynasty, who moved the capital to the soaring dragon of Thang Long! Your kingdom's rice deltas fed a resilient people who repelled invasion after invasion.",
+    "startIntroPart2": "From the Red River delta, Dai Viet forged an identity strong enough to outlast a thousand years of northern rule. Rebuild Thang Long and let the dragon rise again!",
+    "declaringWar": "The delta has swallowed greater armies than yours before the wet season ends.",
+    "attacked": "A thousand years under a foreign yoke could not break us. You will not either.",
+    "defeated": "Thang Long bends, as bamboo bends, and will rise again after the storm.",
+    "introduction": "I am Ly Thai To, founder of the Ly dynasty. Welcome to the land of the ascending dragon.",
+    "neutralHello": "The river delta welcomes travelers with an open hand. What do you seek?",
+    "hateHello": "The bamboo bends, but do not mistake that for weakness.",
+    "tradeRequest": "Rice and silk for what you offer - shall we agree on fair terms?",
+    "spyNames": ["Ly Thai Tong", "Ly Thanh Tong", "Ly Nhan Tong", "Tran Hung Dao", "Nguyen Trai"]
+  },
+  {
+    "name": "Scythians",
+    "leaderName": "Ateas",
+    "adjective": "Scythian",
+    "style": "",
+    "outerColor": [210, 170, 40],
+    "innerColor": [60, 30, 10],
+    "startBias": ["Tundra"],
+    "uniqueName": "Riders of the Steppe",
+    "uniques": [
+      "[+1] Movement for [Mounted] units",
+      "[+2] Sight for [Mounted] units",
+      "Horses provide double quantity of resources"
+    ],
+    "cities": ["Neapolis Scythica", "Kamenskoye", "Gelonus", "Panticapaeum", "Tanais", "Chersonesus"],
+    "startIntroPart1": "Ateas, King of the Scythians, master of the endless steppe! Your horse-archers could shoot with deadly accuracy at full gallop, a skill that terrified every settled empire from Persia to Greece.",
+    "startIntroPart2": "Your people carried gold and skill across the grasslands from the Danube to the borders of China, leaving burial mounds filled with treasures fit for kings. Ride out once more and let the steppe belong to the Scythians again!",
+    "declaringWar": "Our arrows fly true even at a full gallop. Yours will not find us so easily.",
+    "attacked": "The steppe swallows armies whole. Yours will be no exception.",
+    "defeated": "The wind on the steppe forgets no one - not even our conquerors.",
+    "introduction": "I am Ateas, King of the Scythians. Speak quickly, for my horse does not like to stand still.",
+    "neutralHello": "The grass of the steppe bends for many travelers. What brings you?",
+    "hateHello": "My riders circle already. Choose your words with care.",
+    "tradeRequest": "Horses and gold for grain and bronze - a fair trade of the steppe.",
+    "spyNames": ["Idanthyrsus", "Scylas", "Anacharsis", "Skopasis", "Gnuros"]
+  }
+]
+ {
+    "name": "Abbasids",
+    "leaderName": "Harun al-Rashid",
+    "adjective": "Abbasid",
+    "style": "",
+    "outerColor": [
+      20,
+      20,
+      20
+    ],
+    "innerColor": [
+      230,
+      200,
+      90
+    ],
+    "startBias": [
+      "Desert"
+    ],
+    "uniqueName": "House of Wisdom",
+    "uniques": [
+      "[+3] Science from every [Library]",
+      "[+2] Gold from every [Market]",
+      "[+1] Culture from every [Wonder]"
+    ],
+    "cities": [
+      "Baghdad",
+      "Samarra",
+      "Kufa",
+      "Basra",
+      "Raqqa",
+      "Mosul",
+      "Anbar",
+      "Wasit"
+    ],
+    "startIntroPart1": "Harun al-Rashid, Commander of the Faithful, ruler of the Abbasid Caliphate! From your round city of Baghdad, scholars, poets, and mathematicians gathered from every corner of the known world.",
+    "startIntroPart2": "The House of Wisdom translated the learning of Greece, Persia, and India into a golden age unmatched in its time. Rebuild Baghdad and let knowledge once again flow down the Tigris!",
+    "declaringWar": "The armies of the Caliphate do not ask twice for submission.",
+    "attacked": "You raise your hand against the Commander of the Faithful. Reflect on that choice.",
+    "defeated": "Baghdad's library may burn, but its knowledge has already spread beyond your reach.",
+    "introduction": "I am Harun al-Rashid, Caliph of Baghdad. Peace be upon you - speak your purpose.",
+    "neutralHello": "The caravans of Baghdad welcome many travelers. What brings you?",
+    "hateHello": "My viziers grow impatient. State your business swiftly.",
+    "tradeRequest": "Silk, spice, or knowledge - Baghdad trades fairly with all.",
+    "spyNames": [
+      "Ja'far",
+      "Al-Ma'mun",
+      "Al-Mansur",
+      "Zubaidah",
+      "Al-Muktafi",
+      "Ibn Sina"
+    ]
+  },
+  {
+    "name": "Mali",
+    "leaderName": "Mansa Musa",
+    "adjective": "Malian",
+    "style": "",
+    "outerColor": [
+      180,
+      140,
+      20
+    ],
+    "innerColor": [
+      30,
+      30,
+      30
+    ],
+    "startBias": [
+      "Desert"
+    ],
+    "uniqueName": "Lord of the Mines",
+    "uniques": [
+      "[+3] Gold from every [Trading Post]",
+      "[+20]% Gold from Cities connected to Capital",
+      "[+2] Faith from every [Wonder]"
+    ],
+    "cities": [
+      "Niani",
+      "Timbuktu",
+      "Gao",
+      "Djenne",
+      "Walata",
+      "Taghaza",
+      "Diakha",
+      "Kangaba"
+    ],
+    "startIntroPart1": "Mansa Musa, ruler of Mali, richest man the world had ever known! Your pilgrimage to Mecca scattered so much gold across Cairo that its value collapsed for a decade.",
+    "startIntroPart2": "Timbuktu became a beacon of scholarship and trade, its salt and gold caravans crossing the whole of the Sahara. Fill the treasury once more and let the world marvel at Mali's wealth!",
+    "declaringWar": "Gold has already bought the loyalty of armies at your gates.",
+    "attacked": "You would rob the richest treasury in the world? Bold, and foolish.",
+    "defeated": "Our gold outlasts us - it will simply fund whoever rises next.",
+    "introduction": "I am Mansa Musa, Lord of Mali. Let us speak of trade, as befits wealthy men.",
+    "neutralHello": "The salt caravans bring travelers of every kind. What do you seek?",
+    "hateHello": "Even my patience has a price, and you are close to exhausting it.",
+    "tradeRequest": "Gold for salt, salt for gold - Mali profits from either.",
+    "spyNames": [
+      "Sundiata",
+      "Abu Bakr",
+      "Sakura",
+      "Maghan",
+      "Mari Djata",
+      "Askia"
+    ]
+  },
+  {
+    "name": "Khmer",
+    "leaderName": "Jayavarman VII",
+    "adjective": "Khmer",
+    "style": "",
+    "outerColor": [
+      150,
+      40,
+      30
+    ],
+    "innerColor": [
+      230,
+      210,
+      150
+    ],
+    "startBias": [
+      "Jungle"
+    ],
+    "uniqueName": "Masters of the Baray",
+    "uniques": [
+      "[+1] Food from every [Farm]",
+      "[+1] Production from every [Water Mill]",
+      "[+25]% Production towards [Wonder] construction"
+    ],
+    "cities": [
+      "Angkor",
+      "Hariharalaya",
+      "Koh Ker",
+      "Sambor Prei Kuk",
+      "Isanapura",
+      "Vyadhapura",
+      "Wat Phu"
+    ],
+    "startIntroPart1": "Jayavarman VII, King of Kings, builder of Angkor Thom! Your engineers tamed the monsoon itself, building vast reservoirs, or barays, that let your rice fields feed a mighty empire.",
+    "startIntroPart2": "Temple-mountains rose from the jungle to touch the heavens under your rule. Restore the waters of the baray and let Angkor's towers rise once more!",
+    "declaringWar": "The waters of the baray now serve only our armies, not yours.",
+    "attacked": "The jungle has swallowed greater threats than you.",
+    "defeated": "The stones of Angkor will outlast every conqueror who claims them.",
+    "introduction": "I am Jayavarman VII, King of the Khmer. Speak, and be welcome beneath the towers.",
+    "neutralHello": "The temple bells have announced your arrival. What is your purpose?",
+    "hateHello": "The monsoon season is short, and so is my patience.",
+    "tradeRequest": "Rice and stone, silk and spice - shall we find fair terms?",
+    "spyNames": [
+      "Suryavarman",
+      "Yasovarman",
+      "Indravarman",
+      "Rajendravarman",
+      "Udayadityavarman"
+    ]
+  },
+  {
+    "name": "Kongo",
+    "leaderName": "Afonso I",
+    "adjective": "Kongolese",
+    "style": "",
+    "outerColor": [
+      40,
+      30,
+      20
+    ],
+    "innerColor": [
+      220,
+      180,
+      60
+    ],
+    "startBias": [
+      "Jungle"
+    ],
+    "uniqueName": "Cosmogram of the Ancestors",
+    "uniques": [
+      "[+2] Faith from every [Temple]",
+      "[+1] Production from every [Plantation]",
+      "[+15]% Gold from Luxury resources"
+    ],
+    "cities": [
+      "Mbanza Kongo",
+      "Mbanza Soyo",
+      "Mbanza Nsundi",
+      "Mbanza Mpangu",
+      "Mbanza Mbata",
+      "Mpinda"
+    ],
+    "startIntroPart1": "Afonso I, Manikongo, ruler of the Kingdom of Kongo! Your capital at Mbanza Kongo grew into a great city of stone churches and bustling markets along the Congo River basin.",
+    "startIntroPart2": "Your kingdom balanced ancient tradition with new ideas from distant shores, forging a realm respected across the Atlantic. Restore the balance of the cosmogram and let Kongo flourish once more!",
+    "declaringWar": "The ancestors have already judged you, and found you wanting.",
+    "attacked": "Our copper and iron do not only make ornaments - they make spearheads too.",
+    "defeated": "Mbanza Kongo falls, but the river remembers every kingdom upon it.",
+    "introduction": "I am Afonso, Manikongo of the Kongo. Speak, and speak honestly.",
+    "neutralHello": "The markets of Mbanza Kongo are open to honest traders. What do you seek?",
+    "hateHello": "The ancestors watch how you conduct yourself here.",
+    "tradeRequest": "Copper, ivory, cloth - name a fair exchange.",
+    "spyNames": [
+      "Nzinga a Nkuwu",
+      "Diogo I",
+      "Garcia II",
+      "Pedro I",
+      "Nzinga Mbande"
+    ]
+  },
+  {
+    "name": "Timurids",
+    "leaderName": "Timur",
+    "adjective": "Timurid",
+    "style": "",
+    "outerColor": [
+      30,
+      60,
+      130
+    ],
+    "innerColor": [
+      220,
+      190,
+      100
+    ],
+    "startBias": [
+      "Desert"
+    ],
+    "uniqueName": "Scourge of the Steppe",
+    "uniques": [
+      "[+30]% Strength for [Siege] units",
+      "[+1] Movement for [Siege] units",
+      "[+20]% Production when constructing [Wonder]s"
+    ],
+    "cities": [
+      "Samarkand",
+      "Herat",
+      "Bukhara",
+      "Shahrisabz",
+      "Balkh",
+      "Merv",
+      "Termez"
+    ],
+    "startIntroPart1": "Timur, conqueror of Samarkand, terror of Delhi and Damascus! Your armies swept from the steppe to the Mediterranean, leaving both ruin and magnificent monuments in their wake.",
+    "startIntroPart2": "Samarkand became a jewel of Islamic architecture, its domes gleaming with the plunder and patronage of a world-spanning conquest. Rebuild the empire and let Samarkand's turquoise domes rise again!",
+    "declaringWar": "The steppe remembers no mercy, and neither do I.",
+    "attacked": "You have summoned a storm that has broken empires far greater than yours.",
+    "defeated": "Samarkand's domes will stand long after this defeat is forgotten.",
+    "introduction": "I am Timur, Lord of the Timurid realm. Kneel, or state your business quickly.",
+    "neutralHello": "My armies rarely pause for idle talk. What do you want?",
+    "hateHello": "You test the patience of a man who has broken sultanates.",
+    "tradeRequest": "Even conquerors need silk and horses. Let us trade.",
+    "spyNames": [
+      "Shah Rukh",
+      "Ulugh Beg",
+      "Babur",
+      "Miran Shah",
+      "Sultan Husayn"
+    ]
+  },
+  {
+    "name": "Seljuks",
+    "leaderName": "Alp Arslan",
+    "adjective": "Seljuk",
+    "style": "",
+    "outerColor": [
+      10,
+      90,
+      50
+    ],
+    "innerColor": [
+      240,
+      240,
+      220
+    ],
+    "startBias": [
+      "Plains"
+    ],
+    "uniqueName": "Ghazi Horsemen",
+    "uniques": [
+      "[+1] Movement for [Mounted] units",
+      "[+25]% Strength for [Mounted] units when attacking",
+      "[+2] Gold from Barbarian encampments"
+    ],
+    "cities": [
+      "Isfahan",
+      "Nishapur",
+      "Rey",
+      "Konya",
+      "Hamadan",
+      "Kayseri",
+      "Sivas",
+      "Erzurum"
+    ],
+    "startIntroPart1": "Alp Arslan, the Heroic Lion, Sultan of the Seljuks! Your victory at Manzikert shattered the armies of Byzantium and opened Anatolia to Turkic settlement forever.",
+    "startIntroPart2": "From the steppes of Central Asia, your horsemen carved a realm stretching from the Aral Sea to the Mediterranean coast. Ride again and let the Seljuk banner fly from Isfahan to Anatolia!",
+    "declaringWar": "Our horsemen have already broken greater armies than yours at Manzikert.",
+    "attacked": "You challenge the Heroic Lion. Few who tried lived to regret it slowly.",
+    "defeated": "Even a lion tires eventually - but the herd remembers his roar.",
+    "introduction": "I am Alp Arslan, Sultan of the Seljuks. Speak plainly, rider to rider.",
+    "neutralHello": "The steppe wind carries word of visitors. What is your purpose?",
+    "hateHello": "My ghazis are eager for battle. Do not keep them waiting.",
+    "tradeRequest": "Horses and steel for silk and grain - a fair trade between realms.",
+    "spyNames": [
+      "Tughril",
+      "Malik-Shah",
+      "Kilij Arslan",
+      "Sanjar",
+      "Suleiman"
+    ]
+  },
+  {
+    "name": "Aksum",
+    "leaderName": "Ezana",
+    "adjective": "Aksumite",
+    "style": "",
+    "outerColor": [
+      150,
+      20,
+      20
+    ],
+    "innerColor": [
+      240,
+      230,
+      200
+    ],
+    "startBias": [
+      "Coast"
+    ],
+    "uniqueName": "Stelae of the Red Sea",
+    "uniques": [
+      "[+2] Gold from every [Harbor]",
+      "[+15]% Gold from trade routes to a different Civilization",
+      "[+1] Faith from every [Wonder]"
+    ],
+    "cities": [
+      "Aksum",
+      "Adulis",
+      "Matara",
+      "Yeha",
+      "Qohaito",
+      "Coloe",
+      "Meroe"
+    ],
+    "startIntroPart1": "King Ezana, ruler of Aksum, master of the Red Sea trade! Your merchant fleets linked the highlands of Africa with Rome, Persia, and India, and your kingdom minted its own gold coinage.",
+    "startIntroPart2": "Towering stelae still mark the graves of your ancestors, monuments no other African kingdom of your age could match. Restore the fleets of the Red Sea and let Aksum's stone towers rise anew!",
+    "declaringWar": "Our fleets already command the waters you depend upon.",
+    "attacked": "You choose war against the masters of the Red Sea trade. A costly choice.",
+    "defeated": "The stelae will stand watch long after this defeat fades from memory.",
+    "introduction": "I am Ezana, King of Aksum. Welcome - let us speak as traders, not enemies.",
+    "neutralHello": "The Red Sea winds bring many travelers. State your business.",
+    "hateHello": "My patience runs as dry as the highland dry season.",
+    "tradeRequest": "Ivory, gold, and salt - Aksum trades fairly with distant lands.",
+    "spyNames": [
+      "Kaleb",
+      "Gabra Masqal",
+      "Wazeba",
+      "Ousanas",
+      "Armah"
+    ]
+  },
+  {
+    "name": "Tibet",
+    "leaderName": "Songtsen Gampo",
+    "adjective": "Tibetan",
+    "style": "",
+    "outerColor": [
+      200,
+      30,
+      30
+    ],
+    "innerColor": [
+      250,
+      220,
+      60
+    ],
+    "startBias": [
+      "Mountain"
+    ],
+    "uniqueName": "Roof of the World",
+    "uniques": [
+      "[+3] Faith from every [Temple]",
+      "[+1] Happiness from every [Monastery]",
+      "[+15]% Strength for units fighting in [Mountain]"
+    ],
+    "cities": [
+      "Lhasa",
+      "Shigatse",
+      "Gyantse",
+      "Tsetang",
+      "Nagqu",
+      "Chamdo",
+      "Nyingchi"
+    ],
+    "startIntroPart1": "Songtsen Gampo, unifier of Tibet, founder of the empire of the high plateau! From the roof of the world, your armies once reached into China, Nepal, and Central Asia.",
+    "startIntroPart2": "Buddhism took deep root in your kingdom, and Lhasa grew into a sacred city among the clouds. Unite the plateau once more and let Tibet's spiritual light shine across Asia!",
+    "declaringWar": "The mountains have already chosen their side, and it is not yours.",
+    "attacked": "Few armies survive the thin air and thinner patience of the highlands.",
+    "defeated": "Lhasa's monasteries close their gates, but the plateau endures forever.",
+    "introduction": "I am Songtsen Gampo, King of Tibet. Welcome to the roof of the world.",
+    "neutralHello": "The mountain winds carry word of travelers. What is your purpose?",
+    "hateHello": "The passes can close as quickly as they opened for you.",
+    "tradeRequest": "Salt, wool, and tea - fair trade for a fair traveler.",
+    "spyNames": [
+      "Trisong Detsen",
+      "Ralpacan",
+      "Mune Tsenpo",
+      "Muni Tsenpo",
+      "Tride Songtsen"
+    ]
+  },
+  {
+    "name": "Dai Viet",
+    "leaderName": "Ly Thai To",
+    "adjective": "Vietnamese",
+    "style": "",
+    "outerColor": [
+      200,
+      30,
+      40
+    ],
+    "innerColor": [
+      240,
+      210,
+      40
+    ],
+    "startBias": [
+      "River"
+    ],
+    "uniqueName": "Bronze Drums of the Delta",
+    "uniques": [
+      "[+1] Culture from every [Farm]",
+      "[+20]% growth [in all cities]",
+      "[+15]% Strength for units fighting in [Forest]"
+    ],
+    "cities": [
+      "Thang Long",
+      "Hoa Lu",
+      "Co Loa",
+      "Hue",
+      "Phu Xuan",
+      "Nghe An",
+      "Thanh Hoa"
+    ],
+    "startIntroPart1": "Ly Thai To, founder of the Ly dynasty, who moved the capital to the soaring dragon of Thang Long! Your kingdom's rice deltas fed a resilient people who repelled invasion after invasion.",
+    "startIntroPart2": "From the Red River delta, Dai Viet forged an identity strong enough to outlast a thousand years of northern rule. Rebuild Thang Long and let the dragon rise again!",
+    "declaringWar": "The delta has swallowed greater armies than yours before the wet season ends.",
+    "attacked": "A thousand years under a foreign yoke could not break us. You will not either.",
+    "defeated": "Thang Long bends, as bamboo bends, and will rise again after the storm.",
+    "introduction": "I am Ly Thai To, founder of the Ly dynasty. Welcome to the land of the ascending dragon.",
+    "neutralHello": "The river delta welcomes travelers with an open hand. What do you seek?",
+    "hateHello": "The bamboo bends, but do not mistake that for weakness.",
+    "tradeRequest": "Rice and silk for what you offer - shall we agree on fair terms?",
+    "spyNames": [
+      "Ly Thai Tong",
+      "Ly Thanh Tong",
+      "Ly Nhan Tong",
+      "Tran Hung Dao",
+      "Nguyen Trai"
+    ]
+  },
+  {
+    "name": "Scythians",
+    "leaderName": "Ateas",
+    "adjective": "Scythian",
+    "style": "",
+    "outerColor": [
+      210,
+      170,
+      40
+    ],
+    "innerColor": [
+      60,
+      30,
+      10
+    ],
+    "startBias": [
+      "Tundra"
+    ],
+    "uniqueName": "Riders of the Steppe",
+    "uniques": [
+      "[+1] Movement for [Mounted] units",
+      "[+2] Sight for [Mounted] units",
+      "Horses provide double quantity of resources"
+    ],
+    "cities": [
+      "Neapolis Scythica",
+      "Kamenskoye",
+      "Gelonus",
+      "Panticapaeum",
+      "Tanais",
+      "Chersonesus"
+    ],
+    "startIntroPart1": "Ateas, King of the Scythians, master of the endless steppe! Your horse-archers could shoot with deadly accuracy at full gallop, a skill that terrified every settled empire from Persia to Greece.",
+    "startIntroPart2": "Your people carried gold and skill across the grasslands from the Danube to the borders of China, leaving burial mounds filled with treasures fit for kings. Ride out once more and let the steppe belong to the Scythians again!",
+    "declaringWar": "Our arrows fly true even at a full gallop. Yours will not find us so easily.",
+    "attacked": "The steppe swallows armies whole. Yours will be no exception.",
+    "defeated": "The wind on the steppe forgets no one - not even our conquerors.",
+    "introduction": "I am Ateas, King of the Scythians. Speak quickly, for my horse does not like to stand still.",
+    "neutralHello": "The grass of the steppe bends for many travelers. What brings you?",
+    "hateHello": "My riders circle already. Choose your words with care.",
+    "tradeRequest": "Horses and gold for grain and bronze - a fair trade of the steppe.",
+    "spyNames": [
+      "Idanthyrsus",
+      "Scylas",
+      "Anacharsis",
+      "Skopasis",
+      "Gnuros"
+    ]
   }
 ]
